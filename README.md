@@ -8,7 +8,8 @@ https://github.com/Rajiv-Sangle/Namma_Kagome/blob/main/kagome_ground_state_vqe-2
 
 (Note: Kindly view the notebook in a Jupyter environment for better rendering. Thanks!)
 
-More information about the Open Science Prize at: https://research.ibm.com/blog/ibm-quantum-open-science-prize-2022
+More information about the Open Science Prize at: 
+https://research.ibm.com/blog/ibm-quantum-open-science-prize-2022
 
 Preparing quantum states lies at the heart of quantum computing, and is essential to promising applications of near-term quantum processors. This Open Science Prize problem asks participants to prepare the ground state of a Heisenberg spin-1/2 Hamiltonian on a kagome lattice using IBM Quantum's 16-qubit ibmq_guadalupe system. The ground states of such systems are highly entangled and linked to exotic quantum behavior at the forefront of quantum research. The goal is to compute the ground state energy with the highest fidelity using VQE. Note that this is the largest qubit system offered in an Open Science Prize to date, and working with 16 qubits is its own challenge.
 
